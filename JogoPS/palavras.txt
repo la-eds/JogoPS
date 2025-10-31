@@ -1,0 +1,66 @@
+escola;Lugar de aprendizado
+computador;Máquina usada para estudar e trabalhar
+abacaxi;Fruta tropical com coroa
+cachorro;Melhor amigo do homem
+elefante;Maior mamífero terrestre
+avião;Meio de transporte que voa
+praia;Lugar com areia e mar
+montanha;Formação geográfica muito alta
+livro;Objeto usado para ler histórias
+professor;Pessoa que ensina
+médico;Profissional da saúde
+engenheiro;Profissional que constrói e projeta
+biblioteca;Lugar cheio de livros
+igreja;Lugar de oração
+futebol;Esporte popular no Brasil
+violão;Instrumento musical de cordas
+janela;Abertura para entrada de luz
+televisão;Aparelho que exibe imagens e sons
+chocolate;Doce feito de cacau
+bicicleta;Veículo de duas rodas
+banana;Fruta amarela e rica em potássio
+cadeira;Usado para sentar
+copo;Usado para beber líquidos
+pássaro;Animal que pode voar
+oceano;Grande corpo de água salgada
+estrela;Brilha no céu à noite
+planeta;Corpo celeste que orbita uma estrela
+rio;Curso natural de água
+sol;Principal fonte de luz e calor
+lua;Satélite natural da Terra
+carro;Veículo com quatro rodas
+ônibus;Transporte coletivo
+trem;Transporte sobre trilhos
+relógio;Marca as horas
+computador;Usado para programar e trabalhar
+telefone;Usado para comunicação
+sapato;Usado nos pés
+camisa;Roupa usada na parte superior
+gato;Animal doméstico independente
+girafa;Animal de pescoço longo
+jacaré;Animal que vive na água e na terra
+formiga;Inseto trabalhador
+abelha;Produz mel
+borboleta;Animal que passa por metamorfose
+piano;Instrumento musical de teclas
+teatro;Lugar onde acontecem apresentações
+museu;Lugar de exposição de arte
+hospital;Local de atendimento médico
+mercado;Lugar onde se fazem compras
+parque;Lugar para lazer e natureza
+floresta;Lugar com muitas árvores
+fazenda;Propriedade rural
+castelo;Construção antiga de reis e rainhas
+navio;Meio de transporte marítimo
+submarino;Veículo que navega debaixo d’água
+estrela;Brilha no céu
+planta;Ser vivo que faz fotossíntese
+raio;Descarga elétrica natural
+nuvem;Acumulo de vapor d’água no céu
+vento;Ar em movimento
+chuva;Água que cai do céu
+neve;Água congelada que cai em flocos
+fogo;Emite luz e calor
+pedra;Material sólido natural
+areia;Partículas pequenas encontradas na praia
+
